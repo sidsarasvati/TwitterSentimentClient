@@ -1,0 +1,12 @@
+{
+    "name": "TwitterSentimentClient",
+    "description": "Sentiment Analysis of Twitter Texts",
+    "version": "0.1.0",
+    "private": true,
+    
+    "dependencies": {
+        "express": "3.x",
+        "sentiment": "0.2.1",
+        "ntwitter": "0.5.0"
+    }
+}
